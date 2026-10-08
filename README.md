@@ -14,7 +14,8 @@ Seven departments each get a dedicated VLAN and /24 subnet, which keeps traffic 
 
 ## Topology
 
-![Campus network topology](docs/topology.jpeg)
+<img width="1115" height="367" alt="WhatsApp Image 2026-10-08 at 9 58 55 AM" src="https://github.com/user-attachments/assets/b904b540-bb34-4913-9e1c-84d684399ead" />
+
 
 | Layer | Devices |
 |-------|---------|
